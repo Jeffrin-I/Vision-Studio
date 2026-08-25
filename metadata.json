@@ -1,0 +1,6 @@
+{
+  "name": "Sunrock Solar Banner",
+  "description": "Experience Paris Differently banner design featuring plain black background, DM Sans typography, glassmorphism cards, and pure white elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
