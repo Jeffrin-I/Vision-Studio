@@ -1,20 +1,28 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Vision Studio
 
-# Run and deploy your AI Studio app
+Vision Studio is a creative agency website built around a bold visual identity and a simple, focused user experience.
 
-This contains everything you need to run your app locally.
+The site presents the studio's approach to strategy, creative work, growth, and collaboration through a dark visual system, strong typography, and interactive sections.
 
-View your app in AI Studio: https://ai.studio/apps/1d701ad0-0adc-49ac-ab8a-66e5ec9d3fcc
+## Features
 
-## Run Locally
+- Responsive layout
+- Interactive navigation
+- Animated sections and transitions
+- Service-focused content
+- Mobile-friendly design
 
-**Prerequisites:**  Node.js
+## Tech
 
+- React
+- JavaScript
+- CSS
+- Vite
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Project
+
+This project was built as a front-end web experience for a fictional creative studio.
+
+## License
+
+For personal and educational use.
